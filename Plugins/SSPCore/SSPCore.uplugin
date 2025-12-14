@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SSPCore",
+	"Description": "System Settings Plugin Core",
+	"Category": "Other",
+	"CreatedBy": "Yenum Opone",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SSPCore",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
